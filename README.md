@@ -30,7 +30,7 @@ This graph can be represented with adjacency matrix A. Specifically, if the ith 
  We know the labels of Scotty's friends (direct neighbors): Bob and Patrick.
  But we don't know the labels of Sandy and Krab (Scotty has never talked to them!).
 
-![icecream](img/social_network.png)
+![network](img/social_network.png)
 
 Now the question becomes, how can we predict the labels of the remaining nodes with a partially labelled graph? 
 You realize this is a **semi-supervised node classification problem**, and you decide to approach this problem with Graph CNN.
