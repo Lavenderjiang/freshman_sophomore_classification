@@ -19,7 +19,7 @@ Go to the directory with
 ```cd freshman_sophomore_classification```
 
 Recreate the environment with 
-```conda create -f environment.yml```
+```conda env create -f environment.yml```
 
 Wait until the installation is finished, and 
 activate the new environment with
