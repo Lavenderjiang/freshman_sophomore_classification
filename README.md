@@ -2,7 +2,7 @@
 
 This repository contains a [notebook](https://github.com/Lavenderjiang/freshman_sophomore_classification/blob/master/main.ipynb) 
 for running a simple node classification experiment. See [guide.md](https://github.com/Lavenderjiang/freshman_sophomore_classification/blob/master/guide.md) 
-for help with running the notebook. This repo a supplement material 
+for help with running the notebook. Submit a github [issue](https://github.com/Lavenderjiang/freshman_sophomore_classification/issues) if you run into any problems! This repo a supplement material 
 for this [tutorial](https://medium.com/@lavenderchiang/topology-adaptive-graph-cnn-8c4dffff858e) on graph CNN. 
 
 ## Background
